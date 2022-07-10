@@ -1,0 +1,32 @@
+/* TASK - Rest Countries API */
+
+header{
+    text-align: center;
+}
+
+div{
+    background-color: wheat;
+    color: black;
+    border-color: black;
+    width: 300px;
+    overflow: hidden;
+}
+
+img{
+    width: 300px;
+    height: 150px;
+    object-fit: cover;
+}
+
+section{
+    margin: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    background-color: grey;
+    justify-content: space-between;
+}
+
+p{
+    margin-left: 20px;
+}

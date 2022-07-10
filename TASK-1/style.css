@@ -1,0 +1,38 @@
+body{
+    background-color: grey;
+}
+
+.allchar{
+    border: 1px solid balck;
+    margin: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: space-between;
+}
+
+.char{
+    width: 250px;
+    overflow: hidden;
+    background-color: wheat;
+}
+
+.searchcont{
+    text-align: center;
+}
+
+
+.imgsrc{
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+}
+
+.charinfo{
+    margin-left: 10px;
+}
+
+h2{
+    text-align: center;
+    color: yellow;
+}
